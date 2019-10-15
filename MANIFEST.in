@@ -1,0 +1,6 @@
+include README.rst
+include LICENSE-APACHE
+include LICENSE-MIT
+recursive-include video_search/data *
+recursive-include video_search/models *
+recursive-include video_search/webui *
